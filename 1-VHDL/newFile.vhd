@@ -21,18 +21,18 @@ library ieee;
    use ieee.numeric_std.all;
 
 entity <my_module> is
-	   generic(
+	 generic(
 		   	
 		   );
-		   port(
+	 port(
 			         
-			   );
-		end <my_module>;
+			  );
+end <my_module>;
 		
-		architecture rtl of <my_module> is
+architecture rtl of <my_module> is
 			
 			
-			begin
+begin
 				
 				
-			end architecture;
+end architecture;
